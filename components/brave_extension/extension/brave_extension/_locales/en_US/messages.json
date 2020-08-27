@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "The Brave Extension",
+    "message": "The Calcium Extension",
     "description": "The name of the the extension."
   },
   "shields": {
@@ -24,7 +24,7 @@
     "description": "Message telling the user to disable shields if a site appears broken"
   },
   "disabledMessage": {
-    "message": "You’re browsing this site without Brave’s privacy and security protections. Does it not work right with Shields up?",
+    "message": "You’re browsing this site without Calcium’s privacy and security protections. Does it not work right with Shields up?",
     "description": "Message telling the user that shields are disabled, and prompting them towards reporting an issue if necessary"
   },
   "reportBrokenSite": {
